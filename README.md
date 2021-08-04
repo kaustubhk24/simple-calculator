@@ -2,4 +2,4 @@
 Js calculator
 
 
-Visit https://calculator.justinclicks.com to Use calculator
+Visit https://kaustubhk24.github.io/simple-calculator/   to Use calculator
